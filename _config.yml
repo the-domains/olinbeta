@@ -1,0 +1,14 @@
+layout_spectrum: 0.764051808975637
+typography_spectrum: 0.6154135949909687
+color:
+  brandStrength: 0.9122584573924541
+  lightness: 0.9773757650982589
+  saturation: 0.2539890573825687
+  rhythmicContrast: 0.5741718516219407
+  brandColors:
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+name: 'OLIN[beta]'
