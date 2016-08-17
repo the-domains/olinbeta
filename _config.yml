@@ -6,9 +6,13 @@ color:
   saturation: 0.2539890573825687
   rhythmicContrast: 0.5741718516219407
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
 name: 'OLIN[beta]'
+navigation:
+  - name: Illustrator Lesson 01
+    id: c65f5cfd-c9c4-43d2-852c-0513affccac7
+    type: content
